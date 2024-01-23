@@ -1,0 +1,56 @@
+.coffee_text {
+    font-family: 'Jacques Francois Shadow', serif;
+    font-size: 20px;
+    color: #fff;
+}
+
+.nav-item {
+    font-family: 'Itim', cursive;
+    list-style-type: none;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.buy-now {
+    width: 115px;
+    height: 26px;
+    border-radius: 10px;
+    color: #50291B;
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    background-color: #fff;
+}
+
+.header_text {
+    display: flex;
+    padding-right: 281px;
+}
+
+.header_item {
+    display: flex;
+}
+
+.header-btn {
+    display: flex;
+    padding-left: 281px;
+}
+
+.nav-links {
+    padding-right: 147px;
+    font-family: 'Itim';
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.header_wrapper {
+    display: flex;
+    padding-left: 500px;
+    justify-content: center;
+    position: absolute;
+    padding-top: 46px;
+}
+
+
+
