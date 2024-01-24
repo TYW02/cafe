@@ -1,3 +1,7 @@
+
+
+
+
 .coffee_text {
     font-family: 'Jacques Francois Shadow', serif;
     font-size: 20px;
@@ -53,4 +57,13 @@
 }
 
 
+@media screen and (max-width: 478px) {
+    
+    .header_wrapper {
+        display: flex;
+        justify-content: center;
+        position: absolute;
+    }
 
+
+}

@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from '../Components/Header.js'
 import './LandingPage.css'
+import './Mobile.css'
 import { FaStar } from 'react-icons/fa'
 
 function LandingPage() {
