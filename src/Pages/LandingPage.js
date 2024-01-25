@@ -12,7 +12,7 @@ function LandingPage() {
     
         <div className='img_wrapper'>
             <Header />
-            
+            <img className='bg_img' src='imgs/BG.png'/>
             
               <div className='top-page-wrapper'>
                 <text className='indulge-text'>INDULGE IN EVERY SIP</text>
@@ -25,7 +25,7 @@ function LandingPage() {
 
 
             
-
+        
             
           
 
@@ -34,6 +34,8 @@ function LandingPage() {
     
       <section className='section-2'>
         <div className='s2-wrapper'>
+
+          <div className='test'></div>
 
           <div className='s2-img-wrapper'>
             <img className='drip-img' src='imgs/drip-coffee.jpg' alt='drip coffee'/>
@@ -72,10 +74,12 @@ function LandingPage() {
               </div>
               <div className='item-description'>
                 <text className='item-des'>
-                Lorem Ipsum is simply dummy text of the printing and 
+                  <p>
+                  Lorem Ipsum is simply dummy text of the printing and 
                     typesetting industry. Lorem Ipsum has been the industry's standard dummy
                     text ever since the 1500s, when an unknown printer took a galley of 
                     type and scrambled it to make a type specimen book.
+                  </p>
                 </text>
               </div>
             </div>
@@ -86,11 +90,13 @@ function LandingPage() {
                 <text className='item-text'>$40</text>
               </div>
               <div className='item-description'>
-                <text className='item-des'>
-                Lorem Ipsum is simply dummy text of the printing and 
+              <text className='item-des'>
+                  <p>
+                  Lorem Ipsum is simply dummy text of the printing and 
                     typesetting industry. Lorem Ipsum has been the industry's standard dummy
                     text ever since the 1500s, when an unknown printer took a galley of 
                     type and scrambled it to make a type specimen book.
+                  </p>
                 </text>
               </div>
             </div>
@@ -101,11 +107,13 @@ function LandingPage() {
                 <text className='item-text'>$40</text>
               </div>
               <div className='item-description'>
-                <text className='item-des'>
-                Lorem Ipsum is simply dummy text of the printing and 
+              <text className='item-des'>
+                  <p>
+                  Lorem Ipsum is simply dummy text of the printing and 
                     typesetting industry. Lorem Ipsum has been the industry's standard dummy
                     text ever since the 1500s, when an unknown printer took a galley of 
                     type and scrambled it to make a type specimen book.
+                  </p>
                 </text>
               </div>
             </div>
@@ -116,11 +124,13 @@ function LandingPage() {
                 <text className='item-text'>$40</text>
               </div>
               <div className='item-description'>
-                <text className='item-des'>
-                Lorem Ipsum is simply dummy text of the printing and 
+              <text className='item-des'>
+                  <p>
+                  Lorem Ipsum is simply dummy text of the printing and 
                     typesetting industry. Lorem Ipsum has been the industry's standard dummy
                     text ever since the 1500s, when an unknown printer took a galley of 
                     type and scrambled it to make a type specimen book.
+                  </p>
                 </text>
               </div>
             </div>
@@ -131,11 +141,13 @@ function LandingPage() {
                 <text className='item-text'>$40</text>
               </div>
               <div className='item-description'>
-                <text className='item-des'>
-                Lorem Ipsum is simply dummy text of the printing and 
+              <text className='item-des'>
+                  <p>
+                  Lorem Ipsum is simply dummy text of the printing and 
                     typesetting industry. Lorem Ipsum has been the industry's standard dummy
                     text ever since the 1500s, when an unknown printer took a galley of 
                     type and scrambled it to make a type specimen book.
+                  </p>
                 </text>
               </div>
             </div>
@@ -147,11 +159,13 @@ function LandingPage() {
                 <text className='item-text'>$40</text>
               </div>
               <div className='item-description'>
-                <text className='item-des'>
-                Lorem Ipsum is simply dummy text of the printing and 
+              <text className='item-des'>
+                  <p>
+                  Lorem Ipsum is simply dummy text of the printing and 
                     typesetting industry. Lorem Ipsum has been the industry's standard dummy
                     text ever since the 1500s, when an unknown printer took a galley of 
                     type and scrambled it to make a type specimen book.
+                  </p>
                 </text>
               </div>
             </div>
@@ -162,11 +176,13 @@ function LandingPage() {
                 <text className='item-text'>$40</text>
               </div>
               <div className='item-description'>
-                <text className='item-des'>
-                Lorem Ipsum is simply dummy text of the printing and 
+              <text className='item-des'>
+                  <p>
+                  Lorem Ipsum is simply dummy text of the printing and 
                     typesetting industry. Lorem Ipsum has been the industry's standard dummy
                     text ever since the 1500s, when an unknown printer took a galley of 
                     type and scrambled it to make a type specimen book.
+                  </p>
                 </text>
               </div>
             </div>
@@ -177,11 +193,13 @@ function LandingPage() {
                 <text className='item-text'>$40</text>
               </div>
               <div className='item-description'>
-                <text className='item-des'>
-                Lorem Ipsum is simply dummy text of the printing and 
+              <text className='item-des'>
+                  <p>
+                  Lorem Ipsum is simply dummy text of the printing and 
                     typesetting industry. Lorem Ipsum has been the industry's standard dummy
                     text ever since the 1500s, when an unknown printer took a galley of 
                     type and scrambled it to make a type specimen book.
+                  </p>
                 </text>
               </div>
             </div>
@@ -192,11 +210,13 @@ function LandingPage() {
                 <text className='item-text'>$40</text>
               </div>
               <div className='item-description'>
-                <text className='item-des'>
-                Lorem Ipsum is simply dummy text of the printing and 
+              <text className='item-des'>
+                  <p>
+                  Lorem Ipsum is simply dummy text of the printing and 
                     typesetting industry. Lorem Ipsum has been the industry's standard dummy
                     text ever since the 1500s, when an unknown printer took a galley of 
                     type and scrambled it to make a type specimen book.
+                  </p>
                 </text>
               </div>
             </div>

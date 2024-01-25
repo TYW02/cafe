@@ -1,9 +1,9 @@
 @media screen and (max-width: 478px) {
 
 
-
+/*
     .img_wrapper {
-        background: url('/public/imgs/BG.png') center center/cover no-repeat;
+       
         display: grid;
         grid-template-columns: 50px 50px 50px 50px 50px 50px 50px
         50px 50px 50px;
@@ -12,7 +12,7 @@
         justify-content: center;
         height: 500px;
     }
-
+*/
     .top-page-wrapper {
         grid-column: 2 / 6;
         grid-row: 5 / 7;
@@ -37,12 +37,12 @@
 
 
     .cup-img {
-        width: 200px;
-        height: 250px;
+        width: 100px;
+        height: 125px;
     }
 
     .cup-wrapper {
-        grid-column: 7 / 11;
+        grid-column: 7 / 9;
         grid-row: 3 / 8;
     
     }
@@ -106,7 +106,7 @@
         grid-template-columns: 50px 50px 50px 50px 50px 50px 50px
         50px 50px 50px;
         grid-template-rows: 50px 50px 50px 50px 50px 50px 50px
-        50px 50px 50px ;
+        50px  ;
         justify-content: space-evenly;
     }
 
@@ -131,6 +131,12 @@
         font-family: 'Yanone Kaffeesatz', sans-serif;
         font-size: 8px;
         color: #50291B;
+    }
+
+
+    .item-des > p {
+        max-height: 35px;
+        overflow: hidden;
     }
 
     .item-description {
